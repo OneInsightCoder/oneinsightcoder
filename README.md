@@ -1,4 +1,5 @@
 <h1> <a href="https://guns.lol/sealfr0">profile</a> </h1>
+<h3> <a href="https://discord.gg/A9RrfkCRUs"> discord server </a> </h3>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/OneInsightCoder?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
